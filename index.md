@@ -414,3 +414,16 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+
+## [Diego Naranjo] (https://github.com/dnbsevilla)
+
+Member of the Lucena (Spain) Bar, formerly Member of the Sevilla (Spain) Bar. Senior Policy Advisor at European Digital Rights (EDRi).
+
+[@jDNBSevilla] (http://twitter.com/dnbsevilla)
+
+[Blog] (http://www.diegonaranjo.eu/)
+
+[Employer website] (http://edri.org)
+
+[Linkedin profile] (https://www.linkedin.com/in/diego-naranjo-barroso)
